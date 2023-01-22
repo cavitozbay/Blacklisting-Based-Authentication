@@ -9,3 +9,5 @@ privacy_preserving_borrowing/MIRACL
 privacy_preserving_borrowing/ppb/.vscode
 perea/build
 perea/ntl-11.5.1
+blac/build
+blac/ntl-11.5.1
